@@ -1,6 +1,8 @@
 [package]
-name = "Sistema_Defensa_Rust"
+name = "defensa_sistema"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
+eframe = "0.25"  
+sysinfo = "0.29"
